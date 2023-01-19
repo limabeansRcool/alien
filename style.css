@@ -1,0 +1,29 @@
+body
+{
+  color: rgb(0, 0, 0);
+  background: rgb(255, 228, 228);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+
+.heading {
+  font-size:24px;
+  letter-spacing:10px;
+  text-align:center;
+  
+}
+.container{
+ margin-top:50px;
+ border-radius:50px;
+ background-color:rgb(225, 138, 174);
+ box-shadow: 5px 5px 35px black;
+ height:670px;
+}
